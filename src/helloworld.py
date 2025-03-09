@@ -1,4 +1,8 @@
+def hi_city(city):
+    print(f"hello {city}")
+
+
 def main():
-    print("Hello Bitch")
+    hi_city("NYC")
     
 main()
